@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Passionate about technology, building cool stuff and visiting new places! 
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Maintaining a proper life work balance and spending quality time for ones dear to us, will enable us achieve more in all walks of life.
